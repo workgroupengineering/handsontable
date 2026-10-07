@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T08:12:57.225Z",
+  "generatedAt": "2026-10-07T08:27:19.547Z",
   "windows": {
     "shortDays": 7,
     "longDays": 30
@@ -54,13 +54,13 @@
       "line": 226,
       "title": "overlay scrollbar clearance › gives the strip to the scrollbar while the track is up, and back afterwards",
       "count7": 0,
-      "count30": 1,
+      "count30": 0,
       "countAll": 1,
-      "runs30": 1,
-      "flakyRuns30": 1,
-      "branches30": 1,
+      "runs30": 0,
+      "flakyRuns30": 0,
+      "branches30": 0,
       "nightlyRuns30": 0,
-      "openBranches30": 1,
+      "openBranches30": 0,
       "legs": [
         "e2e-main"
       ],
